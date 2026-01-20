@@ -1,1 +1,3 @@
 # CS4630-Learning-Activity
+
+This learning activity utilizes the Breast Cancer Wisconsin Diagnostic Dataset (https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic). This shows information about the digitized images of the results from fine needle aspirate (FNA) of a breast mass. In this dataset, there is a record for each image that contains the ID number, diagnosis (maligant or begin) and 30 continous, numerical features that describe characteristics of the cell nucleus. There are 10 features that is described using 3 different --: mean, standard error, and the 'worst' or largest value from the digitized image. 
